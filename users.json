@@ -1,0 +1,100 @@
+[
+     {
+          "id": 1,
+          "first_name": "Theadora",
+          "last_name": "Siddaley",
+          "email": "tsiddaley0@moonfruit.com",
+          "gender": "Female"
+     },
+     {
+          "id": 2,
+          "first_name": "Gae",
+          "last_name": "Doumic",
+          "email": "gdoumic1@pagesperso-orange.fr",
+          "gender": "Female"
+     },
+     {
+          "id": 3,
+          "first_name": "Charis",
+          "last_name": "Salway",
+          "email": "csalway2@google.co.jp",
+          "gender": "Female"
+     },
+     {
+          "id": 4,
+          "first_name": "Buck",
+          "last_name": "Westmorland",
+          "email": "bwestmorland3@ifeng.com",
+          "gender": "Male"
+     },
+     {
+          "id": 5,
+          "first_name": "Mona",
+          "last_name": "Tweedie",
+          "email": "mtweedie4@tripod.com",
+          "gender": "Female"
+     },
+     {
+          "id": 6,
+          "first_name": "Emlyn",
+          "last_name": "Rivelin",
+          "email": "erivelin5@examiner.com",
+          "gender": "Female"
+     },
+     {
+          "id": 7,
+          "first_name": "Chiquia",
+          "last_name": "Herety",
+          "email": "cherety6@jiathis.com",
+          "gender": "Female"
+     },
+     {
+          "id": 8,
+          "first_name": "Mattie",
+          "last_name": "Cleveland",
+          "email": "mcleveland7@weebly.com",
+          "gender": "Male"
+     },
+     {
+          "id": 9,
+          "first_name": "Benedetto",
+          "last_name": "Corley",
+          "email": "bcorley8@businessinsider.com",
+          "gender": "Male"
+     },
+     {
+          "id": 10,
+          "first_name": "Darius",
+          "last_name": "Corona",
+          "email": "dcorona9@mediafire.com",
+          "gender": "Male"
+     },
+     {
+          "id": 11,
+          "first_name": "Vale",
+          "last_name": "Apfel",
+          "email": "vapfela@icio.us",
+          "gender": "Female"
+     },
+     {
+          "id": 12,
+          "first_name": "Hunter",
+          "last_name": "Palmar",
+          "email": "hpalmarb@reference.com",
+          "gender": "Male"
+     },
+     {
+          "id": 13,
+          "first_name": "Thorvald",
+          "last_name": "Dallicott",
+          "email": "tdallicottc@aol.com",
+          "gender": "Male"
+     },
+     {
+          "id": 14,
+          "first_name": "Shurlocke",
+          "last_name": "Baraclough",
+          "email": "sbaracloughd@a8.net",
+          "gender": "Male"
+     }
+]
