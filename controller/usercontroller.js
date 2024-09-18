@@ -6,6 +6,17 @@ function getAllUser(req, res) {
           console.log(err);
      }
 }
+function getParticularUser(req, res) {
+     try{
+          let id = parseInt(req.params.id);
+          let  user = users.find((user) => user.id === id);
+          console.log(user);
+          res.json(user);
+     } catch(err) {
+          console.log(err);
+     }
+}
 module.exports = {
-     getAllUser
+     getAllUser,
+     getParticularUser
 }
